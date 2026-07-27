@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -16,27 +16,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:garvitjainnnl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GARVITJAIN-1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-
-
-
-
-</div>
 
 
 
@@ -211,19 +191,7 @@ public:
 
 
 
-# 🌟 Core Strengths
 
-<div align="center">
-
-| Problem Solving | Full Stack | AI Engineering |
-|-----------------|-----------|----------------|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
-
-| Backend | Frontend | Communication |
-|----------|----------|---------------|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
-
-</div>
 
 
 
@@ -264,11 +232,7 @@ goals:
 
 
 
-<div align="center">
 
-> 🚀 Turning Ideas into Scalable Products
-
-</div>
 
 
 
@@ -359,8 +323,8 @@ goals:
 
 
 
+---
 
-# 🌎 Connect With Me
 
 <div align="center">
 
@@ -392,25 +356,13 @@ goals:
 
 
 
-# ⭐ Support My Work
-
-<div align="center">
-
-### If you like my work,
-
-### consider ⭐ starring my repositories.
-
-### It motivates me to build more awesome projects.
-
-</div>
 
 
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
-</div>
+
+
 
 <h2 align="center">
 
