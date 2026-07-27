@@ -42,11 +42,12 @@
 
 
 
----
+<div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World!
+<img align="center" width="520"
+src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```cpp
 class GarvitJain {
