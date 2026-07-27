@@ -131,21 +131,9 @@ public:
 
 ---
 
-### ⚡ Currently Building
 
-```text
-🚀 Production-ready AI Applications
 
-🧠 AI Agents
 
-💬 Conversational RAG Systems
-
-🌍 Scalable Full Stack Platforms
-
-☁️ Cloud-native Applications
-```
-
----
 
 ## 🌌 Philosophy
 
@@ -189,57 +177,6 @@ public:
 
 
 
----
-
----
-
-
-
----
-
-# 🛠 Tools I Use Daily
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,npm"/>
-
-</div>
-
----
-
-# 💼 Professional Journey
-
-```text
-2023
-│
-├── 🎓 Started B.Tech Computer Science @ LNMIIT
-│
-│
-2024
-│
-├── 🌐 Built Plinth'25 Website
-│
-├── ⚛️ Advanced React Development
-│
-│
-2025
-│
-├── 💼 Full Stack Developer Intern
-│     Mentox Technologies
-│
-├── 🏆 Google GenAI Exchange
-│     1st Runner-Up
-│
-├── 🤖 AI Marketplace Assistant
-│
-├── 💻 HireCode Platform
-│
-├── 📄 DocuMind AI
-│
-└── 🚀 Open Source Journey
-```
-
----
 
 # 🎓 Education
 
@@ -377,13 +314,12 @@ goals:
 
 </div>
 
----
+
 
 
 
 </div>
 
----
 
 
 
@@ -395,50 +331,7 @@ goals:
 
 
 
----
 
-# ⚡ Coding Summary
-
-<div align="center">
-
-| Metric | Status |
-|--------|--------|
-| 🚀 Full Stack Projects | Growing |
-| 🤖 AI Projects | Active |
-| 💻 LeetCode | 500+ Problems |
-| 🌱 Learning | System Design • Cloud • AI Agents |
-| 🔥 Open Source | Contributing |
-
-</div>
-
----
-
-
----
-
-# 🎯 2026 Mission
-
-<div align="center">
-
-```text
-✔ Crack Top Product Companies
-
-✔ Master System Design
-
-✔ Build AI SaaS Products
-
-✔ Reach 1000+ LeetCode Problems
-
-✔ Become Open Source Contributor
-
-✔ Learn Kubernetes
-
-✔ Master AWS
-
-✔ Build AI Agents
-```
-
-</div>
 
 ---
 
@@ -479,37 +372,19 @@ goals:
 
 ---
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6C63FF,100:00F5FF"/>
-
-## ⬇ Continue to Part 5
-
-</div>
 
 <!-- =======================================================
                 PREMIUM FINISHING SECTION
 ======================================================== -->
 
-<h1 align="center">
 
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="45">
 
-Open Source Dashboard
 
-</h1>
 
----
 
-# 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/GARVITJAIN-1/GARVITJAIN-1/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 📊 Advanced GitHub Metrics
 
@@ -557,178 +432,6 @@ Open Source Dashboard
 
 ---
 
-# 🎯 2026 Roadmap
-
-```text
-██████████████████████████████
-
-☑ Full Stack Development
-
-☑ Generative AI
-
-☑ RAG Systems
-
-☑ AI Agents
-
-⬜ Kubernetes
-
-⬜ AWS
-
-⬜ DevOps
-
-⬜ Distributed Systems
-
-⬜ 1000+ LeetCode Problems
-
-⬜ Open Source Maintainer
-
-██████████████████████████████
-```
-
----
-
-# 🤖 Currently Exploring
-
-<table>
-
-<tr>
-
-<td>
-
-🧠 AI Agents
-
-</td>
-
-<td>
-
-📚 LangGraph
-
-</td>
-
-<td>
-
-⚡ MCP Servers
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-☁ AWS
-
-</td>
-
-<td>
-
-🐳 Docker
-
-</td>
-
-<td>
-
-☸ Kubernetes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-📈 System Design
-
-</td>
-
-<td>
-
-⚙ CI/CD
-
-</td>
-
-<td>
-
-🔥 Redis
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💬 Dev Philosophy
-
-<div align="center">
-
-> **"Code is not just written to execute.**
->
-> **It is written to inspire, scale and solve."**
-
-</div>
-
----
-
-# 📈 Weekly Coding Rhythm
-
-```text
-DSA                  ██████████████████ 100%
-
-Full Stack           ████████████████   90%
-
-AI Development       ████████████████   90%
-
-Open Source          ███████████        70%
-
-Learning             ███████████████    85%
-```
-
----
-
-# ⚡ Fun Facts
-
-```yaml
-OS:
-  Windows
-  Ubuntu
-
-Editor:
-  VS Code
-
-Browser:
-  Chrome
-
-Favorite Language:
-  C++
-  JavaScript
-
-Dream Company:
-  Google
-  Microsoft
-  Atlassian
-  Amazon
-
-Always Learning:
-  YES
-```
-
----
-
-# ☕ Coffee Counter
-
-```text
-Coffee ➜ ████████████████████████
-
-Sleep ➜ ███████░░░░░░░░░░░░░░░░░
-
-Coding ➜ ████████████████████████
-
-Debugging ➜ ██████████████████████
-```
 
 ---
 
