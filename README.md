@@ -32,27 +32,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
+
 
 </div>
 
----
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=GARVITJAIN-1&style=for-the-badge&color=blueviolet)
 
-![](https://img.shields.io/github/followers/GARVITJAIN-1?style=for-the-badge&logo=github)
-
-![](https://img.shields.io/github/stars/GARVITJAIN-1?style=for-the-badge&logo=github)
-
-</div>
 
 ---
 
@@ -98,39 +86,6 @@ public:
 };
 ```
 
----
-
-
----
-
-## 🚀 What I Do
-
-<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-
-### 💻 Full Stack Development
-
-- ⚛️ React.js
-- ⚡ Next.js
-- 🌐 Node.js
-- 🚀 Express.js
-- 🍃 MongoDB
-- 🔥 Firebase
-- 🎨 Tailwind CSS
-
----
-
-### 🤖 AI Engineering
-
-- 🧠 LangChain
-- 🤖 Gemini
-- 🦙 Llama
-- 📚 RAG Pipelines
-- 🔍 ChromaDB
-- 🤗 HuggingFace
-- 🧮 TensorFlow
-
----
-
 
 
 
@@ -141,7 +96,7 @@ public:
 >
 > It's software that people love using."
 
----
+
 
 <div align="center">
 
@@ -151,7 +106,7 @@ public:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -173,7 +128,7 @@ public:
 
 </div>
 
----
+
 
 
 
@@ -189,7 +144,7 @@ public:
 
 </div>
 
----
+
 
 # 🏆 Highlights
 
@@ -209,7 +164,7 @@ public:
 
 </div>
 
----
+
 
 # 💻 What I Love Building
 
@@ -253,7 +208,7 @@ public:
 
 </table>
 
----
+
 
 # 🌟 Core Strengths
 
@@ -269,7 +224,7 @@ public:
 
 </div>
 
----
+
 
 # 🎯 2026 Goals
 
@@ -333,24 +288,8 @@ goals:
 
 
 
----
 
-# 🚀 Fun Developer Stats
 
-<div align="center">
-
-| 💡 Attribute | Value |
-|--------------|-------|
-| ☕ Coffee Consumed | Infinite |
-| 🐛 Bugs Fixed | Countless |
-| 🚀 Deployments | Many |
-| 😴 Sleep | Optional |
-| 💻 Favorite IDE | VS Code |
-| ❤️ Favorite Language | JavaScript & C++ |
-
-</div>
-
----
 
 # 💬 Developer Quote
 
@@ -360,23 +299,8 @@ goals:
 
 </div>
 
----
-
-# 🌍 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GARVITJAIN-1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
 
 
-
-<!-- =======================================================
-                PREMIUM FINISHING SECTION
-======================================================== -->
 
 
 
@@ -394,7 +318,7 @@ goals:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -406,7 +330,7 @@ goals:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -422,18 +346,18 @@ goals:
 
 <div align="center">
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/Garvitjain27/">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Garvitjain27?theme=dark&font=Poppins&ext=heatmap"/>
 
 </a>
 
 </div>
 
----
 
 
----
+
+
 
 # 🌎 Connect With Me
 
@@ -465,7 +389,7 @@ goals:
 
 </div>
 
----
+
 
 # ⭐ Support My Work
 
@@ -479,7 +403,7 @@ goals:
 
 </div>
 
----
+
 
 <div align="center">
 
